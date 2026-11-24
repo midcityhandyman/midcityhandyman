@@ -14,12 +14,12 @@ I own and operate a remodeling company and a tech firm. Everything here is a cle
 **Leads, calls and messaging**
 
 - [ai-receptionist-starter](https://github.com/midcityhandyman/ai-receptionist-starter): voice receptionist for home services
-- [speed-to-lead](https://github.com/midcityhandyman/speed-to-lead): first reply to a new lead in under 60 seconds
+- [speed-to-lead](https://github.com/midcityhandyman/speed-to-lead): first reply to a new lead against a 60 second target
 - [missed-call-textback](https://github.com/midcityhandyman/missed-call-textback): one text back, with quiet hours and opt-out
 
 **Automation and CRM**
 
-- [n8n-workflow-library](https://github.com/midcityhandyman/n8n-workflow-library): ten production-grade workflows with error paths
+- [n8n-workflow-library](https://github.com/midcityhandyman/n8n-workflow-library): eleven workflows with error paths and opt-out handling
 - [webhook-reliability-kit](https://github.com/midcityhandyman/webhook-reliability-kit): idempotency, retries and an outbox, proven by a chaos test
 - [crm-migration-kit](https://github.com/midcityhandyman/crm-migration-kit): dedupe, map and validate a CRM move
 
